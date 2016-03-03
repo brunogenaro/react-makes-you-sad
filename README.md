@@ -22,8 +22,13 @@ Baseado e inspirado por https://github.com/petehunt/react-howto
 ## Traduções
 
 - [Inglês](https://github.com/gaearon/react-makes-you-sad)
-- [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
 - [Português](https://github.com/brunogenaro/react-makes-you-sad)
+- [Francês](https://github.com/matteodelabre/react-vous-rend-triste)
+- [Espanhol](https://github.com/jvalen/react-makes-you-sad)
+- [Tiếng Việt](https://github.com/petehouston/react-makes-you-sad)
+- [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
+- [한국어](https://github.com/ehrudxo/react-makes-you-sad)
+- [日本語](https://github.com/kuy/react-makes-you-sad)
 
 ## Licença
 
