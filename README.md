@@ -12,6 +12,18 @@ Original (em inglês): https://github.com/gaearon/react-makes-you-sad
 
 Baseado e inspirado por https://github.com/petehunt/react-howto
 
+## Links
+
+* Se você está confuso com o ecossitemas do React and não saber por onde começar, leia read <a href="https://github.com/petehunt/react-howto" target="_blank">Pete Hunt’s react-howto guide</a>.
+
+* Se você está usando a biblioteca Flux (ou Redux) e isso adiciona muitos boilerplates sem motivos óbvios, remova e estude manuseamento de estados (states) com React puro na documentação: <a href="https://facebook.github.io/react/docs/thinking-in-react.html" target="_blank">Thinking in React</a>.
+
+* Se você não se sente confortável usando funcionalidades ES2105 (ex: classes e fat arrows) e você acha quqe precisa atualizar seu conhecimento em JavaScript, <a href="https://leanpub.com/understandinges6/read" target="_blank">Understanding ECMAScript 6</a> é um ótimo guia. Use <a href="https://babeljs.io/repl/" target="_blank">Babel</a> para verificar suas suposições.
+
+* Se você está apenas aprendendo React e um empacotador JavaScript, como Webpack, confunde você, copie <a href="https://github.com/jarsbe/react-simple" target="_blank">jarsbe/react-simple</a> e comece seu código sem este processo.
+
+* Depois de ter aprendido React você pode começar aprender boas práticas de deployment, como, por exemplo, empacotadores JavaScript. Use [Google Page Speed](https://developers.google.com/speed/pagespeed/) para verificar o quão bem seu app compila o código do cliente.
+
 ## Para Contribuir
 
 1. Edite o arquivo `.dot` com https://atom.io/packages/graphviz-preview
